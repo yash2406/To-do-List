@@ -6,3 +6,5 @@ t=5;
 while t>0:
     print('Hello world');
     t=t-1;
+def ok():
+    print("Go");
